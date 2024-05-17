@@ -4,7 +4,7 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: Bethany Corcoran's Links  # Name of your website
 tagline: Bethany Corcoran aka Fneb  # Set your preferred page title
-description: My links!  # Also used as a meta description
+description: I also go by Fneb  # Also used as a meta description
 favicon: https://picsum.photos/32/32 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
 logo: assets/goblinhappy.png # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://randomstuff.win # URL of your website
