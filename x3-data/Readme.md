@@ -1,1 +1,1 @@
-These are the pinouts for the Qidi X-Max/Plus/Smart 3 boards. But I didn't receive these from Qidi, and I have no idea if there are different variants of the boards, etc etc. Proceed with caution.
+These are the pinouts for the Qidi X-Max/Plus/Smart 3 boards. But I didn't receive these from Qidi, I have no affiliation with Qidi, can't confirm these are accurate, and I have no idea if there are different variants of the boards, etc etc. Proceed with caution.
