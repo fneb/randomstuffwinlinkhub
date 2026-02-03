@@ -10,6 +10,9 @@
     - title: Fneb on Twitch
       url: https://www.twitch.tv/fneb
       icon: logos:twitch
+    - title: Twitch livestream archive on YouTube
+      url: https://www.youtube.com/@FnebLiveArchive
+      icon: logos:youtube-icon
     - title: "This Isn't Working: Exploring and Facing how our Lives are Going"
       url: https://podcasters.spotify.com/pod/show/this-isnt-working-podcast
       icon: mdi:podcast
